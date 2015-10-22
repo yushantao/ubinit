@@ -1,0 +1,2 @@
+# ubinit
+ubuntu init bash
